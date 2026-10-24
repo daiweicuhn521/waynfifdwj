@@ -1,6 +1,7 @@
 {
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/CustomSpider.jar",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/CustomSpider.jar
+",
     "lives": [{
         "name": "live",
         "type": 0,
@@ -10,29 +11,14 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-    "sites": [
- {
-            "key": "漫漫国",
-            "name": "漫漫国｜PY",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/sharkapp3.1.py",
-            "ext": {
-                "host": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-                "hostkey": "rectangleadsadxa",
-                "parseskey": "aassddwwxxllsx1x",
-                "listkey": "aassddwwxxllsx1x",
-                "deviceId": "",
-                "version": ""
-            }
-        },			
+    "sites": [		
 {
      "key": "zhenlang",
      "name": "真狼丨影视",
      "type": 3,
      "api": "csp_XBPQ",
       "jar":
-"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
      "ext": {"分类url": "https://www.zhenlang.cc"}
         },
 {
@@ -48,7 +34,7 @@
       "key": "随客影视",
       "name": "🎥｜随客｜影视",
       "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
           "请求头": "User-Agent$MOBILE_UA",
@@ -76,7 +62,7 @@
             "name": "七味┃影院",
             "type": 3,
             "api": "csp_XBPQ",
-           "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+           "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -300,7 +286,7 @@
         "name": "一起看影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "线路数组": "sb-ico-player ico-Azhan\">&&</li>",
             "分类url": "https://www.cpldq.com/cptype/{cateId}-{catePg}.html",
@@ -323,7 +309,7 @@
         "name": "吉吉影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "分类url": "https://www.jnyxgjg.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
             "分类": "短剧$40#电视剧$2#电影$1#动漫$4#综艺$3"
@@ -333,7 +319,7 @@
         "name": "麻花观影",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "简介": "white-space: initial;\">&&</p></div>",
             "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
@@ -350,7 +336,7 @@
         "name": "农民观影",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "简介": "小林子为您剧情介绍:+style=\"display: none;\">&&</span>",
             "副标题": "pic-text text-right\">&&</span>",
@@ -362,7 +348,7 @@
         "name": "暖影院",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "副标题": "hl-lc-1 remarks\">*&nbsp;|&nbsp;&&</span>",
             "分类url": "https://www.nuantv.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
@@ -373,7 +359,7 @@
         "name": "爱家影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "线路数组": "<a href=\"javascript:void(0);\"&&</a>",
             "线路标题": "</i>&nbsp;&&</a>",
@@ -386,7 +372,7 @@
         "name": "一起看",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "简介": "小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>",
             "副标题": "pic-text text-right\">&&</span>",
@@ -402,7 +388,7 @@
         "name": "大师兄影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
             "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
@@ -412,7 +398,7 @@
         "name": "热播影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "分类": "电影$1#电视剧$2#动漫$4#综艺$5",
             "分类url": "https://rebozj.pro/type/{cateId}.html"
@@ -422,7 +408,7 @@
         "name": "河马影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
             "分类": "电影&电视剧&动漫&综艺",
@@ -433,7 +419,7 @@
         "name": "木瓜影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
             "分类": "电影&电视剧&综艺&动漫",
@@ -447,7 +433,8 @@
         "searchable": 1,
         "changeable": 0,
         "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
-    }, {
+    }, 
+{
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,
@@ -502,7 +489,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%AE%98%E6%BA%90.jar"
     },  {
         "key": "csp_iqiyi",
         "name": "┃SP┃奇艺影视",
@@ -511,7 +498,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%AE%98%E6%BA%90.jar"
     }, {
         "key": "csp_mgtv",
         "name": "┃SP┃芒果电影",
@@ -520,7 +507,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%AE%98%E6%BA%90.jar"
     }, {
         "key": "csp-youku",
         "name": "┃SP┃优酷电影",
@@ -529,14 +516,14 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%AE%98%E6%BA%90.jar"
     },
  {
         "key": "迅雷8",
         "name": "迅雷吧|XBPQ|磁力",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "播放数组": "copylink&&</a>",
             "播放链接": "alt=\"&&\"",
@@ -549,7 +536,7 @@
         "name": "剧圈在线┃XBPQ",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
         "ext": {
             "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
             "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
