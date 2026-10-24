@@ -39,33 +39,6 @@
         "filterable": 1
     },  
  {
-        "key": "爱奇艺资源",
-        "name": "爱奇艺资源",
-        "type": 1,
-        "api": "https://iqiyizyapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },  
- {
-        "key": "天翼影视",
-        "name": "天翼影视",
-        "type": 1,
-        "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 
- {
-        "key": "旺旺短剧",
-        "name": "旺旺短剧",
-        "type": 1,
-        "api": "https://api.wwzy.tv/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },		        
- {
         "key": "暴风资源",
         "name": "暴风资源",
         "type": 1,
@@ -93,28 +66,10 @@
         "filterable": 1
     },  		    
  {
-        "key": "鸭鸭资源",
-        "name": "鸭鸭资源",
-        "type": 1,
-        "api": "https://cj.yayazy.net/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },  	
- {
         "key": "360资源",
         "name": "360资源",
         "type": 1,
         "api": "https://360zy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
-{
-        "key": "xml_魔爪",
-        "name": "魔爪☆资源",
-        "type": 0,
-        "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
@@ -127,15 +82,6 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    }, 
- {
-        "key": "闪电资源",
-        "name": "闪电资源",
-        "type": 1,
-        "api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
     },  
  {
         "key": "快车资源",
@@ -145,30 +91,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },  
-{
-        "key": "一起看影视",
-        "name": "一起看影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "线路数组": "sb-ico-player ico-Azhan\">&&</li>",
-            "分类url": "https://www.cpldq.com/cptype/{cateId}-{catePg}.html",
-            "分类": "短剧$30#电视剧$2#国产剧$13#香港剧$14#台湾剧$32#韩剧$16#日剧$33#欧美剧$15#电影$1#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12#动漫$4#综艺$3"
-        }
-    }, 
-{
-            "key": "短剧",
-            "name": "采集短剧",
-            "type": 1,
-            "api": "https://wwzy.tv/api.php/provide/vod/",
-            "playUrl": "",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1
-        },	    
+    },      
  {
         "key": "吉吉影视",
         "name": "吉吉影视",
@@ -208,47 +131,8 @@
             "分类url": "https://www.huamujx.com/vodtype/{cateId}-{catePg}.html",
             "分类": "短剧$41#电视剧$2#电影$1#动漫$4#综艺$3"
         }
-    }, {
-        "key": "暖影院",
-        "name": "暖影院",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "副标题": "hl-lc-1 remarks\">*&nbsp;|&nbsp;&&</span>",
-            "分类url": "https://www.nuantv.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
-            "分类": "国产剧$lj#电视剧$dsj#电影$dy#动漫$dm"
-        }
-    }, {
-        "key": "爱家影视",
-        "name": "爱家影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "线路数组": "<a href=\"javascript:void(0);\"&&</a>",
-            "线路标题": "</i>&nbsp;&&</a>",
-            "播放数组": "content_playlist list_scroll clearfix sort-list hide&&</ul>",
-            "分类url": "http://m.eajyy.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-            "分类": "短剧$53#国产剧$9#电视剧$18#电影$17#动漫$48#综艺$20#经典$16"
-        }
-    },  {
-        "key": "一起看",
-        "name": "一起看",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "简介": "小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>",
-            "副标题": "pic-text text-right\">&&</span>",
-            "线路数组": "nofollow\" href=\"#playlist&&</a>",
-            "播放数组": "tgb1119 myui-content__list sort-list clearfix\"&&</ul>",
-            "分类url": "http://www.ruguojiaoyu.com/type/{cateId}-{catePg}.html;;d1",
-            "分类数组": "col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
-            "分类标题": ">&&</a>",
-            "分类ID": "/type/&&.html"
-        }
-    }, {
+    },  
+    {
         "key": "大师兄",
         "name": "大师兄影视",
         "type": 3,
@@ -258,17 +142,7 @@
             "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
             "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
         }
-    }, {
-        "key": "热播之家",
-        "name": "热播影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "分类": "电影$1#电视剧$2#动漫$4#综艺$5",
-            "分类url": "https://rebozj.pro/type/{cateId}.html"
-        }
-    }, {
+    },  {
         "key": "csp_hmhd",
         "name": "河马影视",
         "type": 3,
@@ -279,17 +153,6 @@
             "分类": "电影&电视剧&动漫&综艺",
             "分类值": "1&2&3&4"
         }
-    }, {
-        "key": "csp_mgtva",
-        "name": "木瓜影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-            "分类": "电影&电视剧&综艺&动漫",
-            "分类值": "dianying&lianxuju&zongyi&dongman"
-        }
     }, 
 {
         "key": "量子资源",
@@ -299,46 +162,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "categories": ["动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "战争片", "恐怖片", "记录片", "剧情片", "国产剧", "香港剧", "欧美剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "欧美动漫", "国产动漫", "日韩动漫", "港台动漫", "海外动漫", "短剧"]
-    },  {
-        "key": "速博资源",
-        "name": "速博资源",
-        "type": 1,
-        "api": "https://subocaiji.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories": ["电影", "电视剧", "动漫", "综艺", "纪录片", "动作片", "喜剧片", "爱情片", "科幻片", "预告片", "恐怖片", "剧情片", "战争片", "动漫电影", "大陆剧", "美剧", "日剧", "韩剧", "台湾剧", "港澳剧", "泰剧", "体育赛事", "中国动漫", "日本动漫", "欧美动漫", "短剧"]
-    }, {
-        "key": "ksxjj",
-        "name": "快手姐姐",
-        "type": 4,
-        "api": "http://120.53.102.254/dsp/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, {
-        "key": "csp_xml_红牛",
-        "name": "红牛",
-        "type": 1,
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "playerType": 2,
-        "categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "纪录片", "动漫电影", "国产剧", "欧美剧", "犯罪片", "港澳剧", "短剧", "韩剧", "泰剧", "台湾剧", "日剧", "海外剧", "其他片", "悬疑片", "奇幻片", "动画片", "体育赛事", "国产动漫", "日本动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
-    }, {
-        "key": "天天美剧网（APP）",
-        "name": "天天美剧网（APP）",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "ext": "https://www.ttmja.com/api.php/app/"
-    },  {
-        "key": "无尽资源",
-        "name": "无尽资源",
-        "type": 1,
-        "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories": ["动作片", "动画片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "犯罪片", "奇幻片", "邵氏电影", "纪录片", "短剧", "国产剧", "香港剧", "台湾剧", "日本剧", "韩国剧", "美国剧", "泰剧", "海外剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "影视解说", "体育赛事"]
-    }, {
+    }, 
+{
         "key": "csp_qq",
         "name": "┃SP┃腾讯视频",
         "type": 3,
@@ -375,30 +200,7 @@
         "filterable": 1,
         "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%AE%98%E6%BA%90.jar"
     },
- {
-        "key": "迅雷8",
-        "name": "迅雷吧|XBPQ|磁力",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "播放数组": "copylink&&</a>",
-            "播放链接": "alt=\"&&\"",
-            "简介": "b1f40f7888\"&&</p>",
-            "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
-            "分类": "电视剧$tv#电影$list"
-        }
-    }, {
-        "key": "XBPQ_JQQZX",
-        "name": "剧圈在线┃XBPQ",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
-            "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
-        }
-    }, {
+{
         "key": "索尼资源",
         "name": " 🍁索尼资源",
         "type": 0,
@@ -406,22 +208,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },
-{
-        "key": "csp_Aid",
-        "name": "急救指南",
-        "type": 3,
-        "api": "csp_FirstAid",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 0,
-        "style": {
-            "type": "rect",
-            "ratio": 3.8
-        },
-        "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
     }
-
 ],
     "parses": [{
         "name": "Json轮询（推荐）",
