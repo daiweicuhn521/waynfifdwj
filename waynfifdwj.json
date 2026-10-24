@@ -20,113 +20,6 @@
         "quickSearch": 1,
         "filterable": 1
     },	    
-{
-      "key": "随客影视",
-      "name": "🎥｜随客｜影视",
-      "type": 3,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-          "请求头": "User-Agent$MOBILE_UA",
-          "编码": "UTF-8",
-          "数组": "lazyload\"&&</a",
-          "图片": "data-original=\"&&\"",
-          "标题": "title=\"&&\"",
-          "副标题": "right\">&&</span>",
-          "链接": "href=\"&&\"",
-          "播放数组": "stui-content__playlist column8 clearfix\">&&</ul>",
-          "播放列表": "<a&&a>",
-          "播放链接": "href=\"&&\"",
-          "播放标题": ">&&</",
-          "跳转播放链接":"var player =*source\":\"&&\"",
-          "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div",
-          "线路标题": "title\">&&</h3",
-          "分类url": "https://www.suike100.com/l-{cateId}-{catePg}--{by}-{year}-{area}--0.html",
-          "分类": "电影$1#电视$2#综艺$3#动漫$4#短剧$28",
-          "类型": "动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动画片$15#其他片$19||国剧$20#美剧$21#韩剧$22#日剧$23#港剧$24#台剧$25#泰剧$26#外剧$27#短劇$28||空||空||空",
-          "地区": "大陆&香港&台湾&日本&韩国&泰国&美国&法国&英国&德国&印度&其他"
-      }
-    },
-{
-            "key": "七味影院",
-            "name": "七味┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-           "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "防走丢": "https://www.qwmkv.com/",
-                "主页url": "https://www.pkmp4.xyz/",
-                "二次截取": "class=\"pic-list clearfix\"&&</ul>",
-                "数组": "<li>&&</li>",
-                "标题": "title=\"&&\"",
-                "图片": "src=\"&&\"",
-                "副标题": "</i>&&</span>",
-                "链接": "href=\"&&\"",
-                "播放数组": "class=\"player\"&&</ul>",
-                "播放链接": "href=\"&&\"",
-                "播放列表": "<a&&a>",
-                "播放标题": ">&&</",
-                "线路数组": "<option&&option>",
-                "线路标题": ">&&</",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
-            }
-        },
-    {
-      "key": "drpyS_央视大全[官]",
-      "name": "🏠央视┃[官源]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/央视大全[官]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_腾云驾雾[官]",
-      "name": "🏠腾讯┃[官源]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/腾云驾雾[官]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_百忙无果[官]",
-      "name": "🏠芒果┃[官源]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/百忙无果[官]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_哔哩教育[官]",
-      "name": "🅱️教育┃[哔哩]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/我的哔哩[官]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK59NnfmiaZMeSAQAgv7xPBkAAAA="
-    },
- {
-        "key": "百度资源",
-        "name": "百度资源",
-        "type": 1,
-        "api": "https://api.apibdzy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 
  {
         "key": "非凡资源",
         "name": "非凡资源",
@@ -135,25 +28,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },  
- {
-        "key": "卧龙资源",
-        "name": "卧龙资源",
-        "type": 1,
-        "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "如意资源",
-        "name": "如意资源",
-        "type": 1,
-        "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },  
+    },   
  {
         "key": "天涯资源",
         "name": "天涯资源",
