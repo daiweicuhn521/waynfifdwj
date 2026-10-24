@@ -424,14 +424,15 @@
             "分类": "电影&电视剧&综艺&动漫",
             "分类值": "dianying&lianxuju&zongyi&dongman"
         }
-    }, {
+    }, 
+        {
         "key": "酷狗",
         "name": "酷狗",
         "type": 3,
         "api": "csp_Kugou",
         "searchable": 1,
         "changeable": 0,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
+        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/pg.jar"
     }, 
 {
         "key": "量子资源",
