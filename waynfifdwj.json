@@ -12,6 +12,13 @@
     }],
     "sites": [		
         {
+            "key": "舞曲DJ",
+            "name": "舞曲DJ",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%88%9E%E6%9B%B2dj.py",
+            "genre": "shortdrama"
+        },
+        {
             "key": "红果短剧",
             "name": "红果 • 短剧",
             "type": 3,
