@@ -11,11 +11,11 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [		
-{
+ {
             "key": "55短剧",
             "name": "55 • 短剧",
             "type": 3,
-            "api": "https://ghfast.top/https://github.com/daiweicuhn521/waynfifdwj/blob/main/[%E7%9F%AD]55%E7%9F%AD%E5%89%A7.py",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/55%E7%9F%AD%E5%89%A7.py",
             "genre": "shortdrama"
         },
 
