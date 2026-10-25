@@ -11,41 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [		
-              {
-            "key": "七猫短剧",
-            "name": "七猫 • 短剧",
-            "type": 3,
-            "api": "csp_ShortQimao",
-            "genre": "shortdrama"
-        },
-        {
-            "key": "河马短剧",
-            "name": "河马 • 短剧",
-            "type": 3,
-            "api": "csp_ShortHema",
-            "genre": "shortdrama"
-        },
-        {
-            "key": "围观短剧",
-            "name": "围观 • 短剧",
-            "type": 3,
-            "api": "csp_ShortWeiguan",
-            "genre": "shortdrama"
-        },
-        {
-            "key": "好看短剧",
-            "name": "好看 • 短剧",
-            "type": 3,
-            "api": "csp_ShortHaokan",
-            "genre": "shortdrama"
-        },
-        {
-            "key": "星芽短剧",
-            "name": "星芽 • 短剧",
-            "type": 3,
-            "api": "csp_ShortXingya",
-            "genre": "shortdrama"
-        },
         {
             "key": "舞曲DJ",
             "name": "舞曲DJ",
