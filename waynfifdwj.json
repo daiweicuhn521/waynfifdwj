@@ -12,6 +12,46 @@
     }],
     "sites": [		
  {
+            "key": "红果听书",
+            "name": "红果听书",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BA%A2%E6%9E%9C%E5%90%AC%E4%B9%A6.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "红果影视",
+            "name": "红果影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BA%A2%E6%9E%9C%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "华数",
+            "name": "华数",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E6%95%B0.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "华数TV",
+            "name": "华数TV",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E6%95%B0TV.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "华谊影视",
+            "name": "华谊影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },       
+ {
             "key": "55短剧",
             "name": "55 • 短剧",
             "type": 3,
