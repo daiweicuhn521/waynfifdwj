@@ -11,7 +11,46 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [		
+{
+            "key": "花都影视",
+            "name": "花都影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%8A%B1%E9%83%BD%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "黄豆短剧",
+            "name": "黄豆短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "吉利猫",
+            "name": "吉利猫",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%90%89%E5%88%A9%E7%8C%AB.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "极速追剧",
+            "name": "极速追剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9E%81%E9%80%9F%E8%BF%BD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "金牌",
+            "name": "金牌",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%87%91%E7%89%8C.py",
+            "genre": "shortdrama"
+        },
 
 
 
