@@ -11,6 +11,24 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  {
             "key": "世界听书",
             "name": "世界 • 听书",
@@ -19,15 +37,6 @@
             "style": {
                 "type": "list"
             }
-        },
- 
-
- {
-            "key": "剧圈影视",
-            "name": "剧圈 • 影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%89%A7%E5%9C%88%E5%BD%B1%E8%A7%86.json"
         },
 
 {
@@ -39,24 +48,6 @@
             "changeable": 0,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
         },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
             "key": "果果短剧",
             "name": "果果 • 短剧",
