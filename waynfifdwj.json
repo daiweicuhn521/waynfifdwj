@@ -11,6 +11,13 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [		
+        {
+            "key": "红果短剧",
+            "name": "红果 • 短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 {
         "key": "xml_茅台资源",
         "name": "茅台资源",
