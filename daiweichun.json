@@ -11,7 +11,46 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "追剧达人",
+            "name": "追剧达人",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "追影",
+            "name": "追影",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%BF%BD%E5%BD%B1.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "枝枝影视",
+            "name": "枝枝影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9E%9D%E6%9E%9D%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "真果鉴",
+            "name": "真果鉴",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9C%9F%E6%9E%9C%E9%89%B4.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "",
+            "name": "在线短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%9C%A8%E7%BA%BF%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 
 
 
