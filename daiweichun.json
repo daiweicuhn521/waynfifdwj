@@ -1,17 +1,40 @@
 {
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/CustomSpider.jar",
    "lives": [{
         "name": "live",
         "type": 0,
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/TV.txt",
         "playerType": 1,
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "花都影视",
+            "name": "花都影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%8A%B1%E9%83%BD%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "黄豆短剧",
+            "name": "黄豆短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "吉利猫",
+            "name": "吉利猫",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%90%89%E5%88%A9%E7%8C%AB.py",
+            "genre": "shortdrama"
+        },
  {
         "key": "msv ",
         "name": "🔞美少女 ",
@@ -28,15 +51,6 @@
         "changeable": 1
     }, 
 {
-        "key": "CK资源",
-        "name": "CK资源",
-        "type": 1,
-        "api": "https://ckzy.me/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 	
-{
         "key": "bp ",
         "name": "🔞白嫖 ",
         "type": 0,
@@ -52,34 +66,6 @@
         "changeable": 1
     },
  {
-        "key": "X细胞资源",
-        "name": "X细胞资源",
-        "type": 1,
-        "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 
- {
-        "key": "番茄资源",
-        "name": "番茄资源",
-        "type": 1,
-        "api": "https://fqzy4.me/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 	    
-{
-        "key": "森林专场",
-        "name": "🔞森林采集",
-        "type": 1,
-        "api": "https://slapibf.com/api.php/provide/vod/",
-        "playUrl": "",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories": ["精品推荐", "国产色情", "主播直播", "亚洲无码", "亚洲有码", "中文字幕", "巨乳美乳", "人妻熟女", "强奸乱伦", "欧美精品", "萝莉少女", "伦理三级", "成人动漫", "自拍偷拍", "制服丝袜", "口交颜射", "日本精品", "Cosplay", "素人自拍", "台湾辣妹", "韩国御姐", "唯美港姐", "东南亚AV", "欺辱凌辱", "剧情介绍", "多人多P", "91探花", "网红流出", "野外露出", "古装扮演", "女优系列", "可爱学生", "风情旗袍", "兽耳系列", "瑜伽裤", "闷骚护士", "过膝袜", "网曝门", "传媒出品", "女同性恋", "男同性恋", "恋腿狂魔"]
-    },{
         "key": "乐播",
         "name": "️🔞乐播采集",
         "type": 1,
@@ -89,7 +75,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "categories": ["亚洲情色", "国产主播", "国产自拍", "无码专区", "欧美性爱", "熟女人妻", "强奸乱伦", "巨乳美乳", "中文字幕", "制服诱惑", "女同性恋", "卡通动画", "视频伦理", "少女萝莉", "重口色情", "人兽性交"]
-    }, {
+    },
+ {
         "key": "番号资源",
         "name": "番号资源",
         "type": 1,
@@ -103,41 +90,7 @@
         "api": "https://api.ddapi.cc/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
-    }, {
-        "key": "湿乐园",
-        "name": "湿乐园",
-        "type": 1,
-        "api": "https://xxavs.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    },
- {
-        "key": "优异资源",
-        "name": "优异资源",
-        "type": 1,
-        "api": "https://a.uezy.pw/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },  
- {
-        "key": "丝袜资源",
-        "name": "丝袜资源",
-        "type": 1,
-        "api": "https://www.siwazyw.tv/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "色南国资源",
-        "name": "色南国资源",
-        "type": 1,
-        "api": "https://api.sexnguon.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
+    }, 
  {
         "key": "淫水机资源",
         "name": "淫水机资源",
@@ -146,34 +99,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    }, 
- {
-        "key": "黄AV资源",
-        "name": "黄AV资源",
-        "type": 1,
-        "api": "https://www.pgxdy.com/api/json.php",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "奶香香资源",
-        "name": "奶香香资源",
-        "type": 1,
-        "api": "https://naixxzy1.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 
- {
-        "key": "百万资源",
-        "name": "百万资源",
-        "type": 1,
-        "api": "https://api.bwzym3u8.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }],
+    } 
+],
     "parses": [{
         "name": "Json轮询（推荐）",
         "type": 2,
