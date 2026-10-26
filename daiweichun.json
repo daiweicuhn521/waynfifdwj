@@ -52,7 +52,21 @@
 
 
 
+{
+            "key": "极速追剧",
+            "name": "极速追剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9E%81%E9%80%9F%E8%BF%BD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "金牌",
+            "name": "金牌",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%87%91%E7%89%8C.py",
+            "genre": "shortdrama"
+        },
 {
             "key": "追剧达人",
             "name": "追剧达人",
