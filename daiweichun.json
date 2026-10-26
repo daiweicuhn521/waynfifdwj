@@ -11,7 +11,83 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "小汤圆影视",
+            "name": "小汤圆影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%B0%8F%E6%B1%A4%E5%9C%86%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "星辰影院",
+            "name": "星辰影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "央视网",
+            "name": "央视网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%AE%E8%A7%86%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "央视频",
+            "name": "央视频",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%AE%E8%A7%86%E9%A2%91.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "兄弟影视",
+            "name": "兄弟影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "星梦",
+            "name": "星梦",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%98%9F%E6%A2%A6.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "星芽短剧",
+            "name": "星芽短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "熊猫tv",
+            "name": "熊猫tv",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%86%8A%E7%8C%ABtv.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "雪糕TV",
+            "name": "雪糕TV",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9B%AA%E7%B3%95TV.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "一起看",
+            "name": "一起看",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E4%B8%80%E8%B5%B7%E7%9C%8B.py",
+            "genre": "shortdrama"
+        },
 
 
 
