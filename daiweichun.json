@@ -11,7 +11,46 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "神秘电影",
+            "name": "神秘电影",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%A5%9E%E7%A7%98%E7%94%B5%E5%BD%B1.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "黄豆短剧",
+            "name": "黄豆短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "怦然心动",
+            "name": "怦然心动",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "居屋短剧",
+            "name": "居屋短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%B1%85%E5%B1%8B%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "韩三伦理",
+            "name": "韩三伦理",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9F%A9%E4%B8%89%E4%BC%A6%E7%90%86.py",
+            "genre": "shortdrama"
+        },
 
 
 
