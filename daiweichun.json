@@ -11,7 +11,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-
+{
+        "key": "xml_光速资源",
+        "name": "光速资源",
+        "type": 0,
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
 
 
 
