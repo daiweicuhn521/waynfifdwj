@@ -11,13 +11,41 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-{
-            "key": "河马剧场",
-            "name": "河马剧场",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%B2%B3%E9%A9%AC%E5%89%A7%E5%9C%BA.py",
-            "genre": "shortdrama"
-        },			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
             "key": "蚕驰短剧",
             "name": "蚕驰短剧",
@@ -50,40 +78,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9F%AD%E5%89%A7%E5%A4%A7%E5%85%A8.py",
             "genre": "shortdrama"
         },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
         "key": "xml_光速资源",
         "name": "光速资源",
