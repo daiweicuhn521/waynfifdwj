@@ -11,7 +11,46 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "蚕驰短剧",
+            "name": "蚕驰短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%9A%95%E9%A9%B0%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "毒舌短剧",
+            "name": "毒舌短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%AF%92%E8%88%8C%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "短剧巴士",
+            "name": "短剧巴士",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9F%AD%E5%89%A7%E5%B7%B4%E5%A3%AB.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "短剧大全",
+            "name": "短剧大全",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9F%AD%E5%89%A7%E5%A4%A7%E5%85%A8.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 
 
 
