@@ -30,15 +30,14 @@
         "filterable": 1
     }, 
 {
-        "key": "无尽资源",
-        "name": "无尽资源",
-        "type": 1,
-        "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+        "key": "xml_闪电资源",
+        "name": "闪电资源",
+        "type": 0,
+        "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },	
-
+    },
 
 
 
