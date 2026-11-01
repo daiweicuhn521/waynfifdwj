@@ -19,21 +19,6 @@
             "genre": "shortdrama"
         },
 {
-            "key": "vidhub",
-            "name": "vidhub",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/vidhub.py",
-            "genre": "shortdrama"
-        },
-    {
-            "key": "4K影视",
-            "name": "4K影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/4K%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-
-{
             "key": "37电影网",
             "name": "37电影网",
             "type": 3,
