@@ -11,7 +11,13 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-
+{
+            "key": "2048成人短剧",
+            "name": "2048成人短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/2048%E6%88%90%E4%BA%BA%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 
 
 
