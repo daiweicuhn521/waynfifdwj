@@ -11,13 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-{
-            "key": "黑猫动漫",
-            "name": "黑猫动漫",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%91%E7%8C%AB%E5%8A%A8%E6%BC%AB.py",
-            "genre": "shortdrama"
-        },
 
 
 
