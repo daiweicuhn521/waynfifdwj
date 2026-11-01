@@ -19,7 +19,73 @@
 
 
 
+{
+            "key": "CNFLIX",
+            "name": "CNFLIX",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/CNFLIX.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "37电影网",
+            "name": "37电影网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/37%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
 
+
+{
+            "key": "66大片网",
+            "name": "66大片网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/66%E5%A4%A7%E7%89%87%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "275听书",
+            "name": "275听书",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/275%E5%90%AC%E4%B9%A6.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "555影视",
+            "name": "555影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/555%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },			
+{
+            "key": "五五短剧",
+            "name": "五五短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E4%BA%94%E4%BA%94%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "石榴短剧",
+            "name": "石榴短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9F%B3%E6%A6%B4%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "开心短剧",
+            "name": "开心短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%BC%80%E5%BF%83%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "动漫巴士",
+            "name": "动漫巴士",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.py",
+            "genre": "shortdrama"
+        },
 {
             "key": "蚕驰短剧",
             "name": "蚕驰短剧",
