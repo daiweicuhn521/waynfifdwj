@@ -11,7 +11,93 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "808影院",
+            "name": "808影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/808%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "6080新视觉",
+            "name": "6080新视觉",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/6080%E6%96%B0%E8%A7%86%E8%A7%89.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "6080影视",
+            "name": "6080影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/6080%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "DJ哟哟",
+            "name": "DJ哟哟",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/DJ%E5%93%9F%E5%93%9F.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "VS影院",
+            "name": "VS影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/VS%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+    {
+            "key": "爱听音乐",
+            "name": "爱听音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "枫叶音乐",
+            "name": "枫叶音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9E%AB%E5%8F%B6%E9%9F%B3%E4%B9%90.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "酷我音乐",
+            "name": "酷我音乐",
+            "type": 3,
+            "api": "https://ghfast.top/",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "千千音乐",
+            "name": "千千音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "音乐聚合",
+            "name": "音乐聚合",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9F%B3%E4%B9%90%E8%81%9A%E5%90%88.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "影子音乐",
+            "name": "影子音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%BD%B1%E5%AD%90%E9%9F%B3%E4%B9%90.py",
+            "genre": "shortdrama"
+        },
 
 
 
