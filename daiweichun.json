@@ -49,14 +49,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/movie.py",
             "genre": "shortdrama"
         },
-    {
-            "key": "music",
-            "name": "music",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/music.py",
-            "genre": "shortdrama"
-        },
-
 {
             "key": "ok",
             "name": "ok",
@@ -85,13 +77,6 @@
             "name": "Pomo4K",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/Pomo4K.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "QQ音乐",
-            "name": "QQ音乐",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/QQ%E9%9F%B3%E4%B9%90.py",
             "genre": "shortdrama"
         },
 {
