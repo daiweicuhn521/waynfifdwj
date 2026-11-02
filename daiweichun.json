@@ -11,6 +11,152 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "92523影视",
+            "name": "92523影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/92523%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "acfun",
+            "name": "acfun",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/acfun.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "LSYS",
+            "name": "LSYS",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/LSYS.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "VIP电影",
+            "name": "VIP电影",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/VIP%E7%94%B5%E5%BD%B1.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "movie",
+            "name": "movie",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/movie.py",
+            "genre": "shortdrama"
+        },
+    {
+            "key": "music",
+            "name": "music",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/music.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "ok",
+            "name": "ok",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/ok.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "Pandalive",
+            "name": "Pandalive",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/Pandalive.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "pansou",
+            "name": "pansou",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/pansou.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "Pomo4K",
+            "name": "Pomo4K",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/Pomo4K.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "QQ音乐",
+            "name": "QQ音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/QQ%E9%9F%B3%E4%B9%90.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "TVB云播",
+            "name": "TVB云播",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/TVB%E4%BA%91%E6%92%AD.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "VIP兔",
+            "name": "VIP兔",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/VIP%E5%85%94.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "百花影院",
+            "name": "百花影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%99%BE%E8%8A%B1%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "V视影院",
+            "name": "V视影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/V%E8%A7%86%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "🎬xb6v電影",
+            "name": "🎬xb6v電影",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%F0%9F%8E%ACxb6v%E9%9B%BB%E5%BD%B1.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "艾旦影视",
+            "name": "艾旦影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%89%BE%E6%97%A6%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "八戒影视",
+            "name": "八戒影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "白洋影院",
+            "name": "白洋影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%99%BD%E6%B4%8B%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "包子漫画",
+            "name": "包子漫画",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8C%85%E5%AD%90%E6%BC%AB%E7%94%BB.py",
+            "genre": "shortdrama"
+        },
 
 
 
