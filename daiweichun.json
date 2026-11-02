@@ -12,6 +12,13 @@
     }],
 	    "sites": [	
 {
+            "key": "movie",
+            "name": "movie",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/movie.py",
+            "genre": "shortdrama"
+        },			
+{
             "key": "92523影视",
             "name": "92523影视",
             "type": 3,
