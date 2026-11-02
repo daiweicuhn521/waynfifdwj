@@ -11,6 +11,13 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "抖音",
+            "name": "抖音",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%8A%96%E9%9F%B3.py",
+            "genre": "shortdrama"
+        },
 
 
 
