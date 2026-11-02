@@ -16,7 +16,66 @@
 
 
 
+{
+            "key": "4KVM",
+            "name": "4KVM",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/4KVM.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "4k影视",
+            "name": "4K影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/4Kyingshi.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "4K秒播",
+            "name": "4K秒播",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/4K%E7%A7%92%E6%92%AD.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "30剧集网",
+            "name": "30剧集网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/30%E5%89%A7%E9%9B%86%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "99短剧网",
+            "name": "99短剧网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/99%E7%9F%AD%E5%89%A7%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "1905影院",
+            "name": "1905影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/1905%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "4567影视",
+            "name": "4567影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/4567%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "8090电影网",
+            "name": "8090电影网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/8090%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
 {
             "key": "绿色影视",
             "name": "绿色影视",
