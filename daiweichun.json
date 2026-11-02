@@ -11,13 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-{
-            "key": "麻豆影院",
-            "name": "麻豆影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BA%BB%E8%B1%86%E5%BD%B1%E9%99%A2.py",
-            "genre": "shortdrama"
-        },
 
 
 
@@ -1088,6 +1081,13 @@
             "name": "居屋短剧",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%B1%85%E5%B1%8B%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },	
+{
+            "key": "麻豆影院",
+            "name": "麻豆影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BA%BB%E8%B1%86%E5%BD%B1%E9%99%A2.py",
             "genre": "shortdrama"
         },			
  {
