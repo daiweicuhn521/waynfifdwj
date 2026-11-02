@@ -18,7 +18,99 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%8A%96%E9%9F%B3.py",
             "genre": "shortdrama"
         },
+{
+            "key": "洛雪TV",
+            "name": "洛雪TV",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9B%AA%E7%B3%95TV.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "快手",
+            "name": "快手",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%BF%AB%E6%89%8B.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "集百沙雕",
+            "name": "集百沙雕",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9B%86%E7%99%BE%E6%B2%99%E9%9B%95.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "绿果短剧",
+            "name": "绿果短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BB%BF%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "2400恐怖片",
+            "name": "2400恐怖片",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/2400%E6%81%90%E6%80%96%E7%89%87.py",
+            "genre": "shortdrama"
+        },
+    {
+            "key": "3030相声小品",
+            "name": "3030相声小品",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/3030%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "DJ嗨曲网",
+            "name": "DJ嗨曲网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/DJ%E5%97%A8%E6%9B%B2%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "dj秀",
+            "name": "dj秀",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/dj%E7%A7%80.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "G社漫画",
+            "name": "G社漫画",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/G%E7%A4%BE%E6%BC%AB%E7%94%BB.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "评书随身听",
+            "name": "评书随身听",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%AF%84%E4%B9%A6%E9%9A%8F%E8%BA%AB%E5%90%AC.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "水晶DJ网",
+            "name": "水晶DJ网",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%B0%B4%E6%99%B6DJ%E7%BD%91.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "听友",
+            "name": "听友",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%90%AC%E5%8F%8B.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "喜马拉雅",
+            "name": "喜马拉雅",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.py",
+            "genre": "shortdrama"
+        },
 
 
 
