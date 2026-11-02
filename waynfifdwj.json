@@ -17,7 +17,44 @@
 
 
 
-
+{
+            "key": "绿色影视",
+            "name": "绿色影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BB%BF%E8%89%B2%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "91电视直播",
+            "name": "91电视直播",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/91%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.py",
+            "genre": "shortdrama"
+        },
+{
+    "key": "麦田影院", 
+    "name": "🧿麦田影院", 
+    "type": 3, 
+    "api": "csp_XBPQ", 
+    "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
+    "ext": {
+        "请求头": "User-Agent$MOBILE_UA#Referer$https://mtyy7.com/", 
+        "主页url": "https://mtyy7.com/", 
+        "简介": "描述:&&</div>", 
+        "数组": "<a&&</a>",
+        "标题": "alt=\"&&\"[替换:封面图>>空]",
+        "图片": "data-src=\"&&\"",
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "线路数组": "fa ds-dianying&&</a>", 
+        "线路标题": "</i>&&</span>", 
+        "播放数组": "anthology-list-play size\">&&</ul>", 
+        "播放标题": ">&&</a>", 
+        "播放链接": "href=\"&&\"",
+        "跳转播放链接": "var player_data=*\"url\":\"&&\"",
+        "分类url": "https://mtyy7.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://mtyy7.com/vodtype/{cateId}.html];;mrc", 
+        "分类": "🎬电影$1#🎬电视剧$2#🎬动漫$3#🎬综艺$4"
+    }
+},
 {
             "key": "808影院",
             "name": "808影院",
