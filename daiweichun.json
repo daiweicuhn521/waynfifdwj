@@ -42,13 +42,7 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/30%E5%89%A7%E9%9B%86%E7%BD%91.py",
             "genre": "shortdrama"
         },
-{
-            "key": "66在线",
-            "name": "66在线",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/66%E5%9C%A8%E7%BA%BF.py",
-            "genre": "shortdrama"
-        },
+
 {
             "key": "99短剧网",
             "name": "99短剧网",
@@ -56,15 +50,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/99%E7%9F%AD%E5%89%A7%E7%BD%91.py",
             "genre": "shortdrama"
         },
-
-{
-            "key": "618极速",
-            "name": "618极速",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/618%E6%9E%81%E9%80%9F.py",
-            "genre": "shortdrama"
-        },
-
 {
             "key": "1905影院",
             "name": "1905影院",
@@ -86,7 +71,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/8090%E7%94%B5%E5%BD%B1%E7%BD%91.py",
             "genre": "shortdrama"
         },
-
 
 
 
@@ -1099,7 +1083,20 @@
             "genre": "shortdrama"
         },
 
-
+{
+            "key": "66在线",
+            "name": "66在线",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/66%E5%9C%A8%E7%BA%BF.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "618极速",
+            "name": "618极速",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/618%E6%9E%81%E9%80%9F.py",
+            "genre": "shortdrama"
+        },
 {
             "key": "51暗网",
             "name": "51暗网",
