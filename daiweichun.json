@@ -11,7 +11,98 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "成人B站",
+            "name": "成人B站",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%88%90%E4%BA%BAB%E7%AB%99.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "成人直播",
+            "name": "成人直播",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%88%90%E4%BA%BA%E7%9B%B4%E6%92%AD.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "橙果短剧",
+            "name": "橙果短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%A9%99%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "吃瓜影院",
+            "name": "吃瓜影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%90%83%E7%93%9C%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "魑魅魍魉",
+            "name": "魑魅魍魉",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%AD%91%E9%AD%85%E9%AD%8D%E9%AD%89.py",
+            "genre": "shortdrama"
+        },
+    {
+            "key": "柳州丈母",
+            "name": "柳州丈母",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9F%B3%E5%B7%9E%E4%B8%88%E6%AF%8D.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "美人姬",
+            "name": "美人姬",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BE%8E%E4%BA%BA%E5%A7%AC.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "密云视频",
+            "name": "密云视频",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%AF%86%E4%BA%91%E8%A7%86%E9%A2%91.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "蜜月短剧",
+            "name": "蜜月短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%9C%9C%E6%9C%88%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "善良的小姨子",
+            "name": "善良的小姨子",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%96%84%E8%89%AF%E7%9A%84%E5%B0%8F%E5%A7%A8%E5%AD%90.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "私房研究所",
+            "name": "私房研究所",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%A7%81%E6%88%BF%E7%A0%94%E7%A9%B6%E6%89%80.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "四色",
+            "name": "四色",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%9B%9B%E8%89%B2.py",
+            "genre": "shortdrama"
+        },
 
 
 
