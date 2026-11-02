@@ -44,8 +44,8 @@
         },
 
 {
-            "key": "18jspa",
-            "name": "18jspa",
+            "key": "蝴蝶影视",
+            "name": "蝴蝶影视",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/18jspa.py",
             "genre": "shortdrama"
@@ -66,22 +66,10 @@
             "genre": "shortdrama"
         },
 
-{
-            "key": "91吃瓜短劇",
-            "name": "91吃瓜短劇",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/91%E5%90%83%E7%93%9C%E7%9F%AD%E5%8A%87.py",
-            "genre": "shortdrama"
-        },
 
 
-{
-            "key": "91电视直播",
-            "name": "91电视直播",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/91%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.py",
-            "genre": "shortdrama"
-        },
+
+
 
 {
             "key": "777午夜影院",
@@ -92,7 +80,7 @@
         },
 
 {
-            "key": 911爆料網",
+            "key": "911爆料網",
             "name": "911爆料網",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/911%E7%88%86%E6%96%99%E7%B6%B2.py",
@@ -131,7 +119,13 @@
 
 
 
-
+{
+            "key": "91电视直播",
+            "name": "91电视直播",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/91%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.py",
+            "genre": "shortdrama"
+        },
 {
     "key": "麦田影院", 
     "name": "🧿麦田影院", 
