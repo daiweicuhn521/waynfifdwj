@@ -11,6 +11,31 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
             "key": "movie",
             "name": "movie",
@@ -70,13 +95,6 @@
             "genre": "shortdrama"
         },
 {
-            "key": "V视影院",
-            "name": "V视影院",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/V%E8%A7%86%E5%BD%B1%E9%99%A2.py",
-            "genre": "shortdrama"
-        },
-{
             "key": "艾旦影视",
             "name": "艾旦影视",
             "type": 3,
@@ -97,31 +115,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%99%BD%E6%B4%8B%E5%BD%B1%E9%99%A2.py",
             "genre": "shortdrama"
         },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
             "key": "4KVM",
             "name": "4KVM",
