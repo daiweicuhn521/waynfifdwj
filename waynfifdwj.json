@@ -13,7 +13,63 @@
     "sites": [		
 
 
+{
+            "key": "采集聚合",
+            "name": "采集聚合",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%87%87%E9%9B%86%E8%81%9A%E5%90%88.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "达达兔",
+            "name": "达达兔",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%BE%BE%E8%BE%BE%E5%85%94.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "大马猴",
+            "name": "大马猴",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%A7%E9%A9%AC%E7%8C%B4.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "大师兄影视",
+            "name": "大师兄影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "嘀嗒影视",
+            "name": "嘀嗒影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%98%80%E5%97%92%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "第七影院",
+            "name": "第七影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%AC%AC%E4%B8%83%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "蝶卡影视",
+            "name": "蝶卡影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%9D%B6%E5%8D%A1%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
 {
             "key": "抖音",
             "name": "抖音",
