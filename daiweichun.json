@@ -12,31 +12,10 @@
     }],
 	    "sites": [	
 {
-            "key": "共青春",
-            "name": "共青春",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%85%B1%E9%9D%92%E6%98%A5.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "咕噜咕噜4K",
-            "name": "咕噜咕噜4K",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C4K.py",
-            "genre": "shortdrama"
-        },
-{
             "key": "瓜子",
             "name": "瓜子",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%93%9C%E5%AD%90.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "瓜娃子",
-            "name": "瓜娃子",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%93%9C%E5%A8%83%E5%AD%90.py",
             "genre": "shortdrama"
         },
 {
