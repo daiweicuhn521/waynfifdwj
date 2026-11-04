@@ -123,20 +123,7 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BA%92%E9%BA%9F%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
         },
-{
-            "key": "绮梦短剧",
-            "name": "绮梦短剧",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BB%AE%E6%A2%A6%E7%9F%AD%E5%89%A7.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "企鹅",
-            "name": "企鹅",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E4%BC%81%E9%B9%85.py",
-            "genre": "shortdrama"
-        },
+
 {
             "key": "汽水音乐",
             "name": "汽水音乐",
@@ -1535,6 +1522,13 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BA%BB%E8%B1%86%E5%BD%B1%E9%99%A2.py",
             "genre": "shortdrama"
         },			
+{
+            "key": "绮梦短剧",
+            "name": "绮梦短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BB%AE%E6%A2%A6%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
  {
         "key": "msv ",
         "name": "🔞美少女 ",
