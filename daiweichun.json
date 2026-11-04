@@ -76,20 +76,6 @@
             "genre": "shortdrama"
         },
 {
-            "key": "看剧AI",
-            "name": "看剧AI",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9C%8B%E5%89%A7AI.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "看客",
-            "name": "看客",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9C%8B%E5%AE%A2.py",
-            "genre": "shortdrama"
-        },
-{
             "key": "看戏影视",
             "name": "看戏影视",
             "type": 3,
@@ -115,13 +101,6 @@
             "name": "老四",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%80%81%E5%9B%9B.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "龙禁漫",
-            "name": "龙禁漫",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BE%99%E7%A6%81%E6%BC%AB.py",
             "genre": "shortdrama"
         },
 {
