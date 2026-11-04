@@ -1054,17 +1054,7 @@
             "分类": "短剧$41#电视剧$2#电影$1#动漫$4#综艺$3"
         }
     },  
-    {
-        "key": "大师兄",
-        "name": "大师兄影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-            "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-        }
-    },  {
+  {
         "key": "csp_hmhd",
         "name": "河马影视",
         "type": 3,
