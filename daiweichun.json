@@ -11,7 +11,133 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "囧次元",
+            "name": "囧次元",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%9B%A7%E6%AC%A1%E5%85%83.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "橘汁4K",
+            "name": "橘汁4K",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%A9%98%E6%B1%814K.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "剧下饭4K",
+            "name": "剧下饭4K",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%89%A7%E4%B8%8B%E9%A5%AD4K.py",
+            "genre": "shortdrama"
+        },
 
+{
+            "key": "剧OK",
+            "name": "剧OK",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%89%A7OK.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "剧爸爸",
+            "name": "剧爸爸",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%89%A7%E7%88%B8%E7%88%B8.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "剧迷",
+            "name": "剧迷",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%89%A7%E8%BF%B7.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "剧圈",
+            "name": "剧圈",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%89%A7%E5%9C%88.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "君念影院",
+            "name": "君念影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%90%9B%E5%BF%B5%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "开端影视",
+            "name": "开端影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%BC%80%E7%AB%AF%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "看剧AI",
+            "name": "看剧AI",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9C%8B%E5%89%A7AI.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "看客",
+            "name": "看客",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9C%8B%E5%AE%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "看戏影视",
+            "name": "看戏影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9C%8B%E6%88%8F%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "柯南",
+            "name": "柯南",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9F%AF%E5%8D%97.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "可可影院",
+            "name": "可可影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "老四",
+            "name": "老四",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%80%81%E5%9B%9B.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "龙禁漫",
+            "name": "龙禁漫",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BE%99%E7%A6%81%E6%BC%AB.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "美剧天堂",
+            "name": "美剧天堂",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BE%8E%E5%89%A7%E5%A4%A9%E5%A0%82.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "玛丽影视",
+            "name": "玛丽影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%8E%9B%E4%B8%BD%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
 
 
 
