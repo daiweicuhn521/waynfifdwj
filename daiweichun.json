@@ -11,7 +11,76 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-
+{
+            "key": "多多影视",
+            "name": "多多影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%9A%E5%A4%9A%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "多瑙影院",
+            "name": "多瑙影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%9A%E7%91%99%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "饭搭子影视",
+            "name": "饭搭子影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%A5%AD%E6%90%AD%E5%AD%90%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "飞快",
+            "name": "飞快",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%A3%9E%E5%BF%AB.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "飞牛影视",
+            "name": "飞牛影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%A3%9E%E7%89%9B%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "枫叶影院",
+            "name": "枫叶影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "凤梨音乐",
+            "name": "凤梨音乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%87%A4%E6%A2%A8%E9%9F%B3%E4%B9%90.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "浮光影视",
+            "name": "浮光影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%B5%AE%E5%85%89%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "高清点播",
+            "name": "高清点播",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%AB%98%E6%B8%85%E7%82%B9%E6%92%AD.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "短剧聚合",
+            "name": "短剧聚合",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.py",
+            "genre": "shortdrama"
+        },
 
 
 
