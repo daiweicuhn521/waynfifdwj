@@ -11,14 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-{
-            "key": "全球更新",
-            "name": "全球更新",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%85%A8%E7%90%83%E6%9B%B4%E6%96%B0.py",
-            "genre": "shortdrama"
-        },
-
 
 
 
