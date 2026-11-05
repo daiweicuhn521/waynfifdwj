@@ -19,24 +19,10 @@
             "genre": "shortdrama"
         },
 {
-            "key": "青禾影视",
-            "name": "青禾影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9D%92%E7%A6%BE%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-{
             "key": "青鸟影视",
             "name": "青鸟影视",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9D%92%E9%B8%9F%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "青牛影视",
-            "name": "青牛影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%9D%92%E7%89%9B%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
         },
 {
@@ -61,26 +47,13 @@
             "genre": "shortdrama"
         },
 {
-            "key": "闪电影视",
-            "name": "闪电影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-{
             "key": "绅士影视",
             "name": "绅士影视",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BB%85%E5%A3%AB%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
         },
-{
-            "key": "拾光影视",
-            "name": "拾光影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%8B%BE%E5%85%89%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
+
 {
             "key": "视觉影院",
             "name": "视觉影院",
@@ -114,6 +87,13 @@
             "name": "兔岛影院",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%85%94%E5%B2%9B%E5%BD%B1%E9%99%A2.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "骚火影视",
+            "name": "骚火影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%AA%9A%E7%81%AB%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
         },
 
