@@ -11,40 +11,31 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
             "key": "蚂蚁影视",
             "name": "蚂蚁影视",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%9A%82%E8%9A%81%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
-        },
-{
-            "key": "SA视频",
-            "name": "SA视频",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/SA%E8%A7%86%E9%A2%91.pyhttps://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/SA%E8%A7%86%E9%A2%91.py",
-            "genre": "shortdrama"
-        },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
+        },			
 {
             "key": "青橙影视",
             "name": "青橙影视",
