@@ -12,12 +12,12 @@
     }],
 	    "sites": [	
 {
-            "key": "乐久电影网",
-            "name": "乐久电影网",
+            "key": "永乐电影网",
+            "name": "永乐电影网",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E4%B9%90%E4%B9%85%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%B0%B8%E4%B9%90%E7%94%B5%E5%BD%B1%E7%BD%91.py",
             "genre": "shortdrama"
-        },			
+        },		
 {
             "key": "蚂蚁影视",
             "name": "蚂蚁影视",
