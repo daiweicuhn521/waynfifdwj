@@ -12,6 +12,61 @@
     }],
 	    "sites": [	
 {
+            "key": "1234影视",
+            "name": "1234影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/1234%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "tiktok大人",
+            "name": "tiktok大人",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/tiktok%E5%A4%A7%E4%BA%BA.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "YouTube",
+            "name": "YouTube",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/YouTube.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "懂片帝",
+            "name": "懂片帝",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%87%82%E7%89%87%E5%B8%9D.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "番茄短剧",
+            "name": "番茄短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+{
             "key": "永乐电影网",
             "name": "永乐电影网",
             "type": 3,
