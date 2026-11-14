@@ -11,6 +11,50 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [	
+  {
+            "key": "饭团影视",
+            "name": "饭团影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "华谊影视",
+            "name": "华谊影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "米饭",
+            "name": "米饭",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%B1%B3%E9%A5%AD.py",
+            "genre": "shortdrama"
+        },		
+{
+            "key": "1234影视",
+            "name": "1234影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/1234%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "番茄短剧",
+            "name": "番茄短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.py",
+            "genre": "shortdrama"
+        },
+{
+            "key": "小米",
+            "name": "小米影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%B0%8F%E7%B1%B3.py",
+            "genre": "shortdrama"
+        },       
  {
             "key": "永乐电影网",
             "name": "永乐电影网",
