@@ -11,6 +11,13 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "菠菜园",
+            "name": "菠菜园",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%8F%A0%E8%8F%9C%E5%9B%AD.py",
+            "genre": "shortdrama"
+        },			
  {
             "key": "饭团影视",
             "name": "饭团影视",
