@@ -48,7 +48,13 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.py",
             "genre": "shortdrama"
         },
-
+{
+            "key": "小米",
+            "name": "小米影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%B0%8F%E7%B1%B3.py",
+            "genre": "shortdrama"
+        },
 
 
 
