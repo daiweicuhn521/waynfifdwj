@@ -20,31 +20,6 @@
         },
 
 {
-            "key": "tiktok大人",
-            "name": "tiktok大人",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/tiktok%E5%A4%A7%E4%BA%BA.py",
-            "genre": "shortdrama"
-        },
-
-
-{
-            "key": "YouTube",
-            "name": "YouTube",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/YouTube.py",
-            "genre": "shortdrama"
-        },
-
-{
-            "key": "懂片帝",
-            "name": "懂片帝",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%87%82%E7%89%87%E5%B8%9D.py",
-            "genre": "shortdrama"
-        },
-
-{
             "key": "番茄短剧",
             "name": "番茄短剧",
             "type": 3,
