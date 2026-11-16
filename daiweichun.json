@@ -11,6 +11,41 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+ {
+            "key": "51吃瓜",
+            "name": "51吃瓜",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/51%E5%90%83%E7%93%9C.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "91吃瓜",
+            "name": "91吃瓜",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/91%E5%90%83%E7%93%9C.py",
+            "genre": "shortdrama"
+        },
+
+
+{
+            "key": "黄色仓库",
+            "name": "黄色仓库",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93.py",
+            "genre": "shortdrama"
+        },
+
+{
+            "key": "91网爆黑料 ",
+            "name": "91网爆黑料 ",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/91%E7%BD%91%E7%88%86%E9%BB%91%E6%96%99%20.py",
+            "genre": "shortdrama"
+        },
+
+
+			
 {
             "key": "新云帧享",
             "name": "新云帧享",
