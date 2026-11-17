@@ -11,13 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-{
-            "key": "18av",
-            "name": "18av",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/18av.py",
-            "genre": "shortdrama"
-        },
 
 
 
@@ -1640,8 +1633,13 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
             "genre": "shortdrama"
         },
-
-
+{
+            "key": "18av",
+            "name": "18av",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/18av.py",
+            "genre": "shortdrama"
+        },
 {
             "key": "怦然心动",
             "name": "怦然心动",
