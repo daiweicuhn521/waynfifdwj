@@ -10,19 +10,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [	
-
-
-
-
-
-
-
-
-			
-
-
-			
+	    "sites": [				
 {
             "key": "新云帧享",
             "name": "新云帧享",
@@ -37,14 +25,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
         },
-{
-            "key": "华谊影视",
-            "name": "华谊影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-
 {
             "key": "米饭",
             "name": "米饭",
@@ -124,14 +104,6 @@
             "genre": "shortdrama"
         },
 {
-            "key": "绅士影视",
-            "name": "绅士影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%BB%85%E5%A3%AB%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-
-{
             "key": "视觉影院",
             "name": "视觉影院",
             "type": 3,
@@ -166,14 +138,8 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%85%94%E5%B2%9B%E5%BD%B1%E9%99%A2.py",
             "genre": "shortdrama"
         },
+
 {
-            "key": "骚火影视",
-            "name": "骚火影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%AA%9A%E7%81%AB%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-			{
             "key": "迷你影视",
             "name": "迷你影视",
             "type": 3,
@@ -363,13 +329,6 @@
             "genre": "shortdrama"
         },
 {
-            "key": "柯南",
-            "name": "柯南",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9F%AF%E5%8D%97.py",
-            "genre": "shortdrama"
-        },
-{
             "key": "可可影院",
             "name": "可可影院",
             "type": 3,
@@ -451,13 +410,6 @@
             "name": "多多影视",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%A4%9A%E5%A4%9A%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "饭搭子影视",
-            "name": "饭搭子影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%A5%AD%E6%90%AD%E5%AD%90%E5%BD%B1%E8%A7%86.py",
             "genre": "shortdrama"
         },
 {
@@ -642,13 +594,6 @@
             "name": "acfun",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/acfun.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "LSYS",
-            "name": "LSYS",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/LSYS.py",
             "genre": "shortdrama"
         },
 
@@ -836,14 +781,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
             "genre": "shortdrama"
         },
-
-{
-            "key": "枫叶音乐",
-            "name": "枫叶音乐",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9E%AB%E5%8F%B6%E9%9F%B3%E4%B9%90.py",
-            "genre": "shortdrama"
-        },
 {
             "key": "千千音乐",
             "name": "千千音乐",
@@ -917,13 +854,6 @@
             "name": "开心短剧",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%BC%80%E5%BF%83%E7%9F%AD%E5%89%A7.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "动漫巴士",
-            "name": "动漫巴士",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.py",
             "genre": "shortdrama"
         },
 {
@@ -1100,14 +1030,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E8%BF%BD%E5%BD%B1.py",
             "genre": "shortdrama"
         },
-
-{
-            "key": "",
-            "name": "在线短剧",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%9C%A8%E7%BA%BF%E7%9F%AD%E5%89%A7.py",
-            "genre": "shortdrama"
-        },
 {
             "key": "粤漫",
             "name": "粤漫",
@@ -1132,23 +1054,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%9C%88%E4%B9%8B%E7%A5%A0.py",
             "genre": "shortdrama"
         },
-
-{
-            "key": "优酷",
-            "name": "优酷",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E4%BC%98%E9%85%B7.py",
-            "genre": "shortdrama"
-        },
-
-{
-            "key": "映像星球",
-            "name": "映像星球",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E6%98%A0%E5%83%8F%E6%98%9F%E7%90%83.py",
-            "genre": "shortdrama"
-        },
-
 {
             "key": "映刻短剧",
             "name": "映刻短剧",
@@ -1254,15 +1159,7 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E6%95%B0TV.py",
             "genre": "shortdrama"
-        },
-
-{
-            "key": "华谊影视",
-            "name": "华谊影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
-            "genre": "shortdrama"
-        },       
+        },   
  {
             "key": "55短剧",
             "name": "55 • 短剧",
@@ -1317,21 +1214,6 @@
             },
             "genre": "shortdrama"
         },
-      {
-            "key": "面包影视",
-            "name": "面包 • 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-                "简介": "简介：&&"
-            }
-        },
         {
             "key": "番社动漫",
             "name": "番社 • 动漫",
@@ -1360,25 +1242,6 @@
                 "type": "list"
             }
         },
-        {
-            "key": "巴士动漫",
-            "name": "巴士 • 动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
-                "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
-                "分类": "国漫$1#日漫$2#欧美动漫$3#电影$4",
-                "数组": "class=\"item\">&&</li>",
-                "简介": "剧情：&&</p>",
-                "标题": "title=\"&&在线观看\"",
-                "副标题": "desc\">&&</span>",
-                "图片": "data-bg=\"&&\"",
-                "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
-                "倒序": "1"
-            }
-        },    
         {
             "key": "舞曲DJ",
             "name": "舞曲DJ",
@@ -1475,16 +1338,6 @@
         "filterable": 1
     },      
  {
-        "key": "吉吉影视",
-        "name": "吉吉影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "分类url": "https://www.jnyxgjg.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-            "分类": "短剧$40#电视剧$2#电影$1#动漫$4#综艺$3"
-        }
-    }, {
         "key": "麻花观影",
         "name": "麻花观影",
         "type": 3,
@@ -1501,19 +1354,7 @@
             "分类url": "https://www.mahuadyw.net/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
             "分类": "国产剧$guochanju#电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
         }
-    }, {
-        "key": "农民观影",
-        "name": "农民观影",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/xbpq.jar",
-        "ext": {
-            "简介": "小林子为您剧情介绍:+style=\"display: none;\">&&</span>",
-            "副标题": "pic-text text-right\">&&</span>",
-            "分类url": "https://www.huamujx.com/vodtype/{cateId}-{catePg}.html",
-            "分类": "短剧$41#电视剧$2#电影$1#动漫$4#综艺$3"
-        }
-    },  
+    }, 
   {
         "key": "csp_hmhd",
         "name": "河马影视",
@@ -1631,13 +1472,6 @@
             "name": "黄豆短剧",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
-            "genre": "shortdrama"
-        },
-{
-            "key": "18av",
-            "name": "18av",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/18av.py",
             "genre": "shortdrama"
         },
 {
