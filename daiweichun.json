@@ -11,6 +11,13 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "uaa有声",
+            "name": "uaa有声",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/uaa%E6%9C%89%E5%A3%B0.py",
+            "genre": "shortdrama"
+        },			
  {
             "key": "百度影视",
             "name": "百度影视",
