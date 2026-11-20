@@ -10,7 +10,14 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [		
+	    "sites": [	
+ {
+            "key": "百度影视",
+            "name": "百度影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/%E7%99%BE%E5%BA%A6%E5%BD%B1%E8%A7%86.py",
+            "genre": "shortdrama"
+        },			
 {
             "key": "七五影视",
             "name": "七五影视",
