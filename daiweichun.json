@@ -12,6 +12,26 @@
     }],
 	    "sites": [			
  {
+        "key": "​天堂资源",
+        "name": "​天堂资源",
+        "type": 1,
+        "api": "https://api.dyttcj.com/api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+
+
+
+
+
+
+
+
+
+
+			
+ {
             "key": "百度影视",
             "name": "百度影视",
             "type": 3,
