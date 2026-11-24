@@ -20,18 +20,19 @@
         "quickSearch": 1,
         "filterable": 1
     },
-  {
-      "key": "youtube",
-      "name": "YouTube",
-      "type": 3,
-      "api": "csp_YouTube",
+    {
+      "key":"Youtube",
+      "name":"Youtube",
+      "type":3,
+      "api": "csp_Youtube",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout":120,
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.jar",
        "ext": {
        "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
-                "codecs":"",
+                                "codecs":"",
 				"proxy":"http:127.0.0.1:853",
 				"danmu":true
       },
