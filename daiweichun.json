@@ -30,15 +30,17 @@
       "filterable": 1,
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.jar",
        "ext": {
-	   "token":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/tokenm.json",
        "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
-        "proxy": "http:127.0.0.1:853"
+                "codecs":"",
+				"proxy":"http:127.0.0.1:853",
+				"danmu":true
       },
       "style": {
         "type": "rect",
-        "ratio": 1.85
+        "ratio": 1.77
       }
-
+      
+    }
 },
 
 
