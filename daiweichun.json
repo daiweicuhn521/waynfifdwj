@@ -21,30 +21,27 @@
         "filterable": 1
     },
 {
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout":120,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/pg.jar",
-			"ext":{
-				"token":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/tokenm.json",
-				"json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
-                "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/yt.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"http:127.0.0.1:853",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.jar",
+  "sites": [
+    {
+      "key": "youtube",
+      "name": "YouTube",
+      "type": 3,
+      "api": "csp_YouTube",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.85
+      },
+      "ext": {
+      "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
+        "proxy": "http:127.0.0.1:853"
+      }
+    }
+  ]
+},
 
 
 
