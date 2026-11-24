@@ -20,28 +20,13 @@
         "quickSearch": 1,
         "filterable": 1
     },
-    {
-      "key":"Youtube",
-      "name":"Youtube",
-      "type":3,
-      "api": "csp_Youtube",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout":120,
-       "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/pg.jar",
-       "ext": {
-		   "token":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/tokenm.json",
-       "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
-                                "codecs":"",
-				"proxy":"http:127.0.0.1:853",
-				"danmu":true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-},
+{
+            "key": "youtube",
+            "name": "youtube",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.py",
+            "genre": "shortdrama"
+        },
 
 
 
