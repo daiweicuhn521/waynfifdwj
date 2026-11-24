@@ -30,6 +30,7 @@
       "filterable": 1,
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/pg.jar",
        "ext": {
+	   "token":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/tokenm.json",
        "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
         "proxy": "http:127.0.0.1:853"
       },
