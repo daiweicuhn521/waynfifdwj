@@ -32,7 +32,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.85
-      },
+      }
       "ext": {
         "json":"https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.json",
         "proxy": "http:127.0.0.1:853"
