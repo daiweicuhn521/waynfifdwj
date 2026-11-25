@@ -1022,7 +1022,7 @@ class Spider(Spider):
             vod = {
                 'vod_id': video_id,
                 'vod_name': title or video_id,
-                'vod_pic': f'http://127.0.0.1:9978/proxy?do=py&type=image&vid={video_id}',
+                'vod_pic': f'http://127.0.0.1:853/proxy?do=py&type=image&vid={video_id}',
                 'vod_remarks': status_text,
                 'vod_play_from': '$$$'.join(play_sources),
                 'vod_play_url': '$$$'.join(play_urls)
@@ -1052,7 +1052,7 @@ class Spider(Spider):
         vod = {
             'vod_id': video_id,
             'vod_name': title,
-            'vod_pic': f'http://127.0.0.1:9978/proxy?do=py&type=image&vid={video_id}',
+            'vod_pic': f'http://127.0.0.1:853/proxy?do=py&type=image&vid={video_id}',
             'vod_remarks': status_text,
             'vod_play_from': '$$$'.join(play_sources),
             'vod_play_url': '$$$'.join(play_urls)
@@ -1113,7 +1113,7 @@ class Spider(Spider):
                     'duration': data.get('duration') or 0,
                     'expires': time.time() + 300,
                 })
-                return {'parse': 0, 'jx': 0, 'url': f'http://127.0.0.1:9978/proxy?do=py&type=mpd&vid={video_id}&quality={quality}', 'format': 'application/dash+xml'}
+                return {'parse': 0, 'jx': 0, 'url': f'http://127.0.0.1:853/proxy?do=py&type=mpd&vid={video_id}&quality={quality}', 'format': 'application/dash+xml'}
             headers = self.header.copy()
             headers.update(playable.get('headers') or {})
             return {'parse': 0, 'jx': 0, 'url': playable['url'], 'header': headers}
@@ -1295,7 +1295,7 @@ class Spider(Spider):
             return {
                 'vod_id': video_id,
                 'vod_name': html.unescape(title),
-                'vod_pic': f'http://127.0.0.1:9978/proxy?do=py&type=image&vid={video_id}',
+                'vod_pic': f'http://127.0.0.1:853/proxy?do=py&type=image&vid={video_id}',
                 'vod_remarks': remarks
             }
         except Exception:
@@ -1384,7 +1384,7 @@ class Spider(Spider):
         duration = data.get('duration') or 0
         video_item = data.get('video_item') or {}
         audio_item = data.get('audio_item') or {}
-        media_base = f'http://127.0.0.1:9978/proxy?do=py&type=media&vid={vid}&quality={quality}'
+        media_base = f'http://127.0.0.1:853/proxy?do=py&type=media&vid={vid}&quality={quality}'
         duration_pt = f"PT{int(duration or 0)}S"
         video_mime = (video_item.get('mimeType') or 'video/webm').split(';')[0]
         audio_mime = (audio_item.get('mimeType') or 'audio/mp4').split(';')[0]
@@ -1462,7 +1462,7 @@ class Spider(Spider):
             'kind': kind,
             'expires': time.time() + self._hls_ttl(kind),
         }
-        return f'http://127.0.0.1:9978/proxy?do=py&type=hls&key={quote(key)}'
+        return f'http://127.0.0.1:853/proxy?do=py&type=hls&key={quote(key)}'
 
     def _request_hls(self, target_url, kind, key):
         last_error = None
