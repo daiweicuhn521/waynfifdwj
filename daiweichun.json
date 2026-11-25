@@ -21,13 +21,18 @@
         "filterable": 1
     },
 {
-            "key": "youtube",
-            "name": "youtube",
+            "key": "py_油管",
+            "name": "PY-油管",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.py",",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/daiweicuhn521/waynfifdwj/refs/heads/main/youtube.py",
-            "genre": "shortdrama"
+            "style": {
+                "type": "rect",
+                "ratio": 1.55
+            },
+            "ext": {
+                "proxy": "http://127.0.0.1:853"
+            }
         },
-
 
 
 
